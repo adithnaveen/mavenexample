@@ -21,9 +21,9 @@ class Sample{
 		System.out.println("This is only in new branch"); 
 
 
-		System.out.println("This is sample code for testin in github"); 
+		System.out.println("****** This is sample code for testin in github"); 
 
-		
+
 	}
 
 }
