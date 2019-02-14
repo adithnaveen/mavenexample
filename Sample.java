@@ -7,7 +7,7 @@ class Sample{
 		System.out.println("Added new line for second time"); 
 
 
-
+		
 		///// this code is in new branch 
 		int a = 10; 
 		int b = 20; 
@@ -21,7 +21,7 @@ class Sample{
 		System.out.println("This is only in new branch"); 
 
 
-		System.out.println("****** This is ************** code for testin in github*********"); 
+		System.out.println("****** *********"); 
 
 
 	}
